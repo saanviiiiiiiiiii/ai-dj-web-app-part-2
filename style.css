@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+body
+{
+   background-size: cover;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas
+{
+    border: 3px;
+ border-radius: 10px;
+ box-shadow: 5, 5, 5, grey;
+}
+
+
